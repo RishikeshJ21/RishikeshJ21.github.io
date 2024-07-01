@@ -7,7 +7,7 @@ export default function Home() {
 
 
       <div className={styles.center}>
-        <h1 className={styles.logo}>Site Under Maintainance</h1>
+        <h1 className={styles.logo} style={{color="white"}}>Site Under Maintainance</h1>
       </div>
 
 
